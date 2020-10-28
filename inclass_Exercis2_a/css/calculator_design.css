@@ -1,0 +1,123 @@
+.calculator_form{
+    background-color:silver;
+}
+
+.form_body{
+    padding-left: 200px; 
+    margin-top: 100px; 
+    margin-right: 877px;
+}
+
+.input_output{
+    width: 265px;
+}
+
+.button_layout{
+    padding-left: 5px;
+}
+
+.button_clr{
+    margin-left: 80%;
+    width: 50px; 
+    background-color: salmon;
+}
+
+.button_7{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_8{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_9{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_div{
+    width: 50px; 
+    background-color:lightgreen;
+}
+
+.button_sqrt{
+    width: 50px; 
+    background-color:lightgreen;
+}
+
+.button_4{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_5{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_6{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_multi{
+    width: 50px; 
+    background-color:lightgreen;
+}
+
+.button_modu{
+    width: 50px; 
+    background-color:lightgreen;
+}
+
+.button_1{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_2{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_3{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_minus{
+    width: 50px; 
+    background-color:lightgreen;
+}
+
+.button_fraction{
+    width: 50px; 
+    background-color:lightgreen;
+}
+
+.button_0{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_decim{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_posneg{
+    width: 50px; 
+    background-color: lightblue;
+}
+
+.button_add{
+    width: 50px; 
+    background-color:lightgreen;
+}
+
+.button_calc{
+    width: 50px; 
+    background-color:lightgreen;
+}
